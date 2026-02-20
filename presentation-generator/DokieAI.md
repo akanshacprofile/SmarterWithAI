@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/akanshacprofile/AITools/blob/main/images/dokie.png" height="300" width="500"></p>
+<p align="center"><img src="https://github.com/akanshacprofile/SmarterWithAI/blob/main/images/dokie.png" height="300" width="500"></p>
 
 # Dokie AI
 While working on a new AI product ideation, once I had all my data points ready, I started working on a powerpoint presentation. This is a time taking job, find the correct template, find significant graphics, use gifs, try make it interactive, etc.
