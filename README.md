@@ -1,6 +1,23 @@
 # AITools
 Various AI tools that can be used everyday to make your job easier!
 
+# Marketing
+1. Jasper
+2. SEO Bot
+
+# Sales
+1. Hubspot Sales Hub
+2. Superhuman
+
+# Programming
+1. Claude
+2. Cursor
+3. Github Copilot
+
+# Productivity
+1. NotebookLM
+2. Notion
+
 # Writing Assistant
 1. [PaperPal](writing-assistant/Paperpal.md)
 2. 
